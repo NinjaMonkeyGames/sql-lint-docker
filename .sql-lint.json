@@ -1,0 +1,8 @@
+{
+  "driver": "mysql",
+  "host": "localhost",
+  "user": "monkey_knuckles",
+  "password": "Again.gray1",
+  "port": 3306
+}
+  
